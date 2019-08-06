@@ -17,6 +17,6 @@ int main()
     printf("enter the number for reversal:");
     scanf("%d",&num);
     reversenum = ReverseRecursion(num);
-    printf("The reversed number is : %d",reversenum);
+    printf("The reversed number is : %d\n",reversenum);
     return 0;
 }
